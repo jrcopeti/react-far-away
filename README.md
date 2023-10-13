@@ -9,6 +9,7 @@ Built using React, the **far-away** app ensures you never forget anything for yo
 - **Add Items**: Use the form to quickly add new items to your packing list.
 - **Check off Packed Items**: Simply click on an item to mark it as packed.
 - **Delete Items**: Remove items you no longer need in your list with ease.
+- **Sort Items**: Choose to display items sorted by added order, description or packed status.
 - **Clear All**: With one button, clear your entire list after confirming.
 - **Statistics**: At a glance, view the total number of items, how many are packed, and your packing percentage.
 
