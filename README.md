@@ -13,7 +13,7 @@ Built using React, the **far-away** app ensures you never forget anything for yo
 - **Clear All**: With one button, clear your entire list after confirming.
 - **Statistics**: At a glance, view the total number of items, how many are packed, and your packing percentage.
 
-## 🏗 App Structure:
+## App Structure:
 
 - `App`: The root component.
 - `Logo`: Displays the far-away logo.
@@ -21,19 +21,10 @@ Built using React, the **far-away** app ensures you never forget anything for yo
 - `PackingList`: Handles the display and functionality of the items list.
 - `Stats`: Showcases statistics like total count and packing percentage.
 
-- ## 📘 React Concepts Learnt:
+- ## 📘React Concepts Learnt:
 
 - **Props**: Transfer data from parent to child components.
 - **State & useState**: Maintain and manage dynamic data within components.
 - **Functional Updates**: Update state based on the previous state. This is especially useful when the next state depends on the previous one.
 - **Event Handlers**: Functions passed as props to handle specific events within child components.
 - **State Management**: Understanding how state changes influence component behavior and re-renders, and how to lift state up to allow for more complex interactions and data flows between components.
-
-## 🚀 Getting Started:
-
-1. Clone the repository.
-2. Navigate to the project directory and run `npm install`.
-3. Once dependencies are installed, run `npm start`.
-4. Open a browser and go to `http://localhost:3000`.
-
-Happy packing! 🎒
